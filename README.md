@@ -34,3 +34,6 @@ Sebuah aplikasi sederhana untuk mencari dan menampilkan informasi tentang penggu
   - OkHttp
 
 ## Layar Aplikasi
+<p align="center">
+     Tampilan utama awal dan setelah search "Github"
+</p>
