@@ -2,7 +2,6 @@
 <p align="center">
 <img src="https://i.ibb.co/MDsbMn7/Screenshot-2024-03-29-at-12-34-23.png" alt="Splash Screen" width="200"/>
 </p>
-# Github User
 Sebuah aplikasi sederhana untuk mencari dan menampilkan informasi tentang pengguna GitHub. Data pengguna Github diambil secara real-time untuk aplikasi.
 
 ## Fitur
