@@ -38,6 +38,6 @@ Sebuah aplikasi sederhana untuk mencari dan menampilkan informasi tentang penggu
      <b>Tampilan utama awal dan setelah search "Github"</b>
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/MpX6FCz/Screenshot-2024-03-29-at-12-39-57.png" alt="Splash Screen" width="200"/>
-  <img src="https://i.ibb.co/54n66Jj/Screenshot-2024-03-29-at-12-42-02.png" alt="Splash Screen" width="200"/>
+  <img src="https://i.ibb.co/MpX6FCz/Screenshot-2024-03-29-at-12-39-57.png" alt="Splash Screen" width="300"/>
+  <img src="https://i.ibb.co/54n66Jj/Screenshot-2024-03-29-at-12-42-02.png" alt="Splash Screen" width="300"/>
 </p>
