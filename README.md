@@ -35,5 +35,5 @@ Sebuah aplikasi sederhana untuk mencari dan menampilkan informasi tentang penggu
 
 ## Layar Aplikasi
 <p align="center">
-     Tampilan utama awal dan setelah search "Github"
+     <b>Tampilan utama awal dan setelah search "Github"</b>
 </p>
