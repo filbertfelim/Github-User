@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="no_user">Tidak ada user</string>
+    <string name="no_favorite">Tidak ada favorit</string>
+    <string name="favorite">Favorit</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="searchbar_hint">Cari user...</string>
+    <string name="user_name">Filbert Felim</string>
+    <string name="user_username">filbertfelim</string>
+    <string name="user_followers">%1$d Followers</string>
+    <string name="user_following">%1$d Following</string>
+    <string name="user_image">User Image</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="menu_setting">Setting</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="splash_desc_image">Github</string>
+    <string name="splash_title">Github</string>
+</resources>
